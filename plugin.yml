@@ -1,5 +1,7 @@
-name: Overwatch
+name: overwatch
 main: com.elbert.overwatch.Main
 api-version: 1.16
 version: 1.0
 commands:
+  race:
+  svl:
